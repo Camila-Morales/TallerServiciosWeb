@@ -1,0 +1,14 @@
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\bin\Debug\DAL.dll.config
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\bin\Debug\DAL.dll
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\bin\Debug\DAL.pdb
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\bin\Debug\Entities.dll
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\bin\Debug\Entities.pdb
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\obj\Debug\DAL.dll
+C:\Users\Camila\Documents\Distribuidas\PARCIAL 1\TestSales2024\DAL\obj\Debug\DAL.pdb
